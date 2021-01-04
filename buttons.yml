@@ -1,0 +1,8 @@
+props:
+  pods_button_background:
+    value: "{!pods_primary_color}"
+imports:
+  - ./aliases.yml
+global:
+  type: color
+  category: buttons
